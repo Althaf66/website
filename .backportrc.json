@@ -2,6 +2,7 @@
   "upstream": "goharbor/website",
   "targetBranchChoices": [
     "main",
+    "release-cli-docs",
     "release-1.10",
     "release-2.0.0",
     "release-2.1.0",
